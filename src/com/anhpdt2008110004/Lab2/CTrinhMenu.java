@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab2;
+
 /*
 *    Tổ chức một menu gồm 3 chức năng để gọi 3 bài trên và một chức năng để thoát 
 */

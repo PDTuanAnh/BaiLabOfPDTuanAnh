@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab2;
+
 /*
 *   Nhập vào số điện sử dụng của tháng và tính tiền điện theo phương pháp lũy tiến 
 */

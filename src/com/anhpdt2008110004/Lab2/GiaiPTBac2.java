@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab2;
+
 /*
 *   Giải phương trình bậc hai trong đó các hệ số a, b và c nhập từ bàn phím
 */

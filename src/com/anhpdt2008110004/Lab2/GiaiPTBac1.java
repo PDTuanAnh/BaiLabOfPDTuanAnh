@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab2;
+
 /*
 *   Giải phương trình bậc nhất trong đó các hệ số a, b nhập từ bàn phím
 */

@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab1;
+
 import java.util.Scanner;
 
 /*

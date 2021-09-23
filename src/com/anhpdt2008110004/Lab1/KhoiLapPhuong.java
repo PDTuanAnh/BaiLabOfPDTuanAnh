@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab1;
+
 /*
 *   Nhập cạnh của khối lập phương, tính và xuất thể tích  
 */

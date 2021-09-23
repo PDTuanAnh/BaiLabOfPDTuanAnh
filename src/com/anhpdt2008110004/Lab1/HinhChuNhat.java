@@ -1,3 +1,5 @@
+package com.anhpdt2008110004.Lab1;
+
 /*
 *   Nhập 2 cạnh của HCN, tính và xuất Chu vi, Diện tích, cạnh nhỏ nhất
 */
