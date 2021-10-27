@@ -7,6 +7,6 @@ public class Circle extends Shape{
     }
 
     protected void phatAmThanh(){
-        System.out.println("hinhtron.AIF");
+        System.out.println("Âm thanh phát ra: hinhtron.AIF");
     }
 }

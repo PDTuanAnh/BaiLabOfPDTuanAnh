@@ -7,6 +7,6 @@ public class Triangle extends Shape{
     }
 
     protected void phatAmThanh(){
-        System.out.println("hinhtamgiac.AIF");
+        System.out.println("Âm thanh phát ra: hinhtamgiac.AIF");
     }
 }
