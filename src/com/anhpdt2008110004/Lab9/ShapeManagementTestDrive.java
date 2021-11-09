@@ -19,20 +19,12 @@ public class ShapeManagementTestDrive {
         list.add(rhombus);
         Shape rectangular = new Shape();
         list.add(rectangular);
-
-        System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
-        shapeManagement.xoayHinh(square);
-        System.out.println();
-        System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
-        shapeManagement.xoayHinh(circle);
-        System.out.println();
-        System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
-        shapeManagement.xoayHinh(triangle);
-        System.out.println();
-        System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
-        shapeManagement.xoayHinh(rhombus);
-        System.out.println();
-        System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
-        shapeManagement.xoayHinh(rectangular);
+        
+        for (Shape shape : list) {
+            System.out.println("Hình có được nhấp chuột: "+ShapeManagement.soLanNhapChuot);
+            shape.xoay();
+            shape.phatAmThanh();
+            System.out.println();
+        }
     }
 }
